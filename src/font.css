@@ -1,0 +1,12 @@
+/* https://github.com/AssisrMatheus/font-souls */
+
+@font-face {
+  font-family: 'FourSoulsBody';
+  src: local('FourSoulsBody'),
+       url('./fonts/FourSoulsBody.otf') format('opentype');
+}
+@font-face {
+  font-family: 'FourSoulsTitle';
+  src: local('FourSoulsTitle'),
+       url('./fonts/FourSoulsTitle.otf') format('opentype');
+}
