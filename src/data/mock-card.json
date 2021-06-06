@@ -1,0 +1,19 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "name": "lil hunter",
+      "type": "monster",
+      "health": "3",
+      "hit": "3+",
+      "damage": "2",
+      "instructions": [
+        "when this enters play, expand the number of active monsters by 1. the active player must make an additional attack this turn.",
+        "at the end of the turn return this to the monster deck 4th from the top."
+      ],
+      "rewards": ["loot 2", "+1 soul"],
+      "game": "requiem",
+      "img": "lil-hunter.jpeg"
+    }
+  ]
+}
